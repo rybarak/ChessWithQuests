@@ -1,0 +1,18 @@
+{
+  "dalsi_id": 2,
+  "uzivatele": [
+    {
+      "id": 1,
+      "uzivatelske_jmeno": "ZusciDave",
+      "jmeno": "David",
+      "email": "jirik.k2@seznam.cz",
+      "elo": 1200,
+      "splnene_kwesty": [],
+      "xp": 0,
+      "body": 0,
+      "vyhry": 0,
+      "prohry": 0,
+      "remizy": 0
+    }
+  ]
+}
